@@ -13,7 +13,7 @@ copyright: '' # Footer text, e.g. '© {year} Me'
 ############################
 
 defaultContentLanguage: zh
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: true
 removePathAccents: true
 
