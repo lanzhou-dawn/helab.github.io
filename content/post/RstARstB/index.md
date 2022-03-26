@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-- Li DY, Han JT, Zhang MY, Yan X, Zhang N, Ge H, Wang Z\#, He YX\#
+- Li DY, Han JT, Zhang MY, Yan X, Zhang N, Ge H, Wang Z\*, He YX\*
 categories:
 - Demo
 
