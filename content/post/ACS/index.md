@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-- Song Y*, Zhang SP*, Luo G, Shen Y, Li C, Zhu Y, Huang Q, Mou X, Tang X, Liu T, Wu S, Tong A, He YX#, Bao R#
+- Song Y*, Zhang SP*, Luo G, Shen Y, Li C, Zhu Y, Huang Q, Mou X, Tang X, Liu T, Wu S, Tong A, He YX\#, Bao R\#
 categories:
 - Demo
 
