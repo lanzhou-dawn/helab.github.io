@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: 科研成果
 subtitle: ''
 
 content:
@@ -25,12 +25,12 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
+  - name: 所有
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: 项目
+    tag: 成果
+  - name: 荣誉
+    tag: 荣誉
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
